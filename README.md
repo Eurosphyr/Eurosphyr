@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
-<!--
-**Eurosphyr/Eurosphyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Miguel Godoi, and I'm a student with a passion for coding an coffee .
 
-Here are some ideas to get you started:
+As an avid developer and enthusiast of all things tech, I've embarked on a journey to create, innovate, and collaborate within the digital realm. This portfolio serves as a window into my world of coding, problem-solving, and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm studying in CTI Unesp Bauru
+- Actually studying JavaScript and TypeScript
+
+### Contacts 📫
+
+miguel.godoi@unesp.br
+  
+
+
+
+
