@@ -1,15 +1,18 @@
 ### Welcome to my profile 👋
 
-My name is Miguel Godoi, and I'm a student with a passion for coding an coffee .
+I Like to code and learn some books, especially about games, history and geography.
+Most of the time I am studying or programming.
 
-As an avid developer and enthusiast of all things tech, I've embarked on a journey to create, innovate, and collaborate within the digital realm. This portfolio serves as a window into my world of coding, problem-solving, and creativity.
+- Working on software to popularize access to academic information.
 
-- I'm studying in CTI Unesp Bauru
-- Actually studying JavaScript and TypeScript
+##Languages 
+Intermediate knowledge of C#, C, JAVA, PHP.
+- Learning Node.js and React Native
 
 ### Contacts 📫
 
 miguel.godoi@unesp.br
+miguel.mmgg2016@gmail.com
   
 
 
