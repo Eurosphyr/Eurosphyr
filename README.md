@@ -11,7 +11,7 @@ Intermediate knowledge of C#, C, JAVA, PHP.
 
 ### Contacts 📫
 
-miguel.godoi@unesp.br
+miguel.godoi@unesp.br\
 miguel.mmgg2016@gmail.com
   
 
